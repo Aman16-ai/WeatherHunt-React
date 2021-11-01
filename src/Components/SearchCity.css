@@ -1,0 +1,20 @@
+#search-city-container {
+    margin-left: 10vw;
+    background-color: white;
+    width: 20vw;
+    height: 8vh;
+    padding: 2px ;
+    border-radius: 1rem;
+    border: 2px solid white;   
+    display: flex; 
+}
+#searchCityInput {
+   border-style: none;  
+    font-size: larger;
+    font-family:'Fira Sans', sans-serif;
+   
+}
+#searchBtn {
+    background-color: white;
+    border-style: none;
+}
