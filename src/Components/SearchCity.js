@@ -8,8 +8,8 @@ export default function SearchCity() {
         let url = `https://api.openweathermap.org/data/2.5/weather?q=${cityName.toLowerCase()}&units=metric&appid=ef6b766d67d6a493fa05af0eb5a5ef8a`
         let response = await fetch(url)
         let data = await response.json()
-        console.log("City name: ",data.name)
-        console.log("City weather description: ",data.weather[0].description)
+        console.log("City name: ",data.name)    //for testing purpose
+        console.log("City weather description: ",data.weather[0].description) // for testing purpose
         setCityWeather(data)
     }
     useEffect(() => {
