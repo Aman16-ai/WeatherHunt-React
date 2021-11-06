@@ -1,5 +1,8 @@
-.App-container {
+body {
+
   background-color: #003049;
+}
+.App-container {
   width: 100%;
   height: 100vh;
   position: absolute;

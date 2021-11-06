@@ -1,0 +1,50 @@
+.container {
+    width: 16vw;
+    height: 50vh;
+    background-color: white;
+    margin-left: 6rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.location-container {
+    width: 16vw;
+    height: 6vh;
+    display: flex;
+    justify-content: center;
+}
+#location_icon_img {
+    width: 3vw;
+    height: 4vh;
+    align-self: center;
+
+}
+#CityName {
+    align-self: center;
+}
+#temperature-heading {
+    align-self: center;
+    font-size: 50px;
+}
+#description-heading {
+    align-self: center;
+}
+
+.grid-container {
+    display: inline-grid;
+    
+}
+#desc-icon {
+    width: 5vw;
+    height: 10vh;
+    align-self: center;
+    margin-left: 50px;
+}
+.desc-container {
+    width: 16vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    
+}
