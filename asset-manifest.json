@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WeatherHunt-React/static/css/main.7ccfd5ce.chunk.css",
+    "main.js": "/WeatherHunt-React/static/js/main.a2fb2091.chunk.js",
+    "main.js.map": "/WeatherHunt-React/static/js/main.a2fb2091.chunk.js.map",
+    "runtime-main.js": "/WeatherHunt-React/static/js/runtime-main.9e02e08d.js",
+    "runtime-main.js.map": "/WeatherHunt-React/static/js/runtime-main.9e02e08d.js.map",
+    "static/js/2.9ddf9584.chunk.js": "/WeatherHunt-React/static/js/2.9ddf9584.chunk.js",
+    "static/js/2.9ddf9584.chunk.js.map": "/WeatherHunt-React/static/js/2.9ddf9584.chunk.js.map",
+    "static/js/3.935fb536.chunk.js": "/WeatherHunt-React/static/js/3.935fb536.chunk.js",
+    "static/js/3.935fb536.chunk.js.map": "/WeatherHunt-React/static/js/3.935fb536.chunk.js.map",
+    "index.html": "/WeatherHunt-React/index.html",
+    "static/css/main.7ccfd5ce.chunk.css.map": "/WeatherHunt-React/static/css/main.7ccfd5ce.chunk.css.map",
+    "static/js/2.9ddf9584.chunk.js.LICENSE.txt": "/WeatherHunt-React/static/js/2.9ddf9584.chunk.js.LICENSE.txt",
+    "static/media/smokeicon.2ae22767.jpg": "/WeatherHunt-React/static/media/smokeicon.2ae22767.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e02e08d.js",
+    "static/js/2.9ddf9584.chunk.js",
+    "static/css/main.7ccfd5ce.chunk.css",
+    "static/js/main.a2fb2091.chunk.js"
+  ]
+}
